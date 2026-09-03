@@ -1,0 +1,2 @@
+# AyidaTchani
+Portfolio Data Scientist
